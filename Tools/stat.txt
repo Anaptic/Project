@@ -1,0 +1,11 @@
+Strengh - Attack damage
+Dexterity - Chance to avoid damage
+Stamina - Health
+Intellect - Magic damage
+
+
+
+Armour rating
+Accuracy (-10 - 50%)
+Damage
+
